@@ -30,6 +30,10 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```
+REG  : 212221243002
+NAME : SANJAY S
+```
+```
 import numpy as np
 import math
 import scipy.stats
